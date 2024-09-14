@@ -8,6 +8,8 @@ As the name implies, you can input the student's grades into the first menu (as 
 The statistic data displayed are: total and average of the each of students' grade (UTS, UAS, and Tugas), total of all of the grades, and the average of all of the grades combined.
 
 ## Creator Data
-Kelompok      : Ørsted
+Kelompok     : Ørsted
 
-Nama          : Faiz Gymnastiar Wibawa
+Nama         : Faiz Gymnastiar Wibawa
+
+NIM          : 24/537851/TK/59634
